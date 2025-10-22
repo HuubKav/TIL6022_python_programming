@@ -1,0 +1,5 @@
+Scenario,Active days,Energy/day (kWh),Total dynamic (€),Total fixed (€),Difference (€)
+Distant commuter,Every day,29.6,2865.14103392,3122.3559999999998,-257.2149660799996
+City hopper,Every day,7.4,710.2553662600001,780.5889999999999,-70.33363373999987
+Road tripper,"Saturday, Sunday",29.6,742.9529566799998,881.1031999999999,-138.15024332000007
+Grocery grabber,"Wednesday, Sunday",7.4,196.12107372,220.27579999999998,-24.154726279999977
